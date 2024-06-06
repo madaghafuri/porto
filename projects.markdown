@@ -9,6 +9,12 @@ permalink: /projects/
 
 ---
 
+## [**VID2GIF**](https://madaghafuri.github.io/vid2gif/)
+
+A minimal video-to-gif converter.
+
+Built using **HTML, CSS, JavaScript(TS), & FFMPEG** all happens on client side.
+
 ## [**Manja**](https://manja.mada-ghafuri.workers.dev)
 
 A minimalist project management web app to organize your daily schedule.
